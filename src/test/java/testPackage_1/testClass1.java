@@ -5,10 +5,11 @@ import sun.security.mscapi.CPublicKey;
 public class testClass1 {
 
     public static void main(String[] args) {
-       // CPublicKey
-        
-        public void test(){
-            int x=1;
-            int y=2;
+        // CPublicKey
+
+      //  public void test(){
+            int x = 1;
+            int y = 2;
+
     }
 }
